@@ -1,0 +1,14 @@
+/home/juan/Documentos/Flutter/app_holter/build/linux/x64/profile/CMakeFiles/app_holter.dir
+/home/juan/Documentos/Flutter/app_holter/build/linux/x64/profile/CMakeFiles/edit_cache.dir
+/home/juan/Documentos/Flutter/app_holter/build/linux/x64/profile/CMakeFiles/rebuild_cache.dir
+/home/juan/Documentos/Flutter/app_holter/build/linux/x64/profile/CMakeFiles/list_install_components.dir
+/home/juan/Documentos/Flutter/app_holter/build/linux/x64/profile/CMakeFiles/install.dir
+/home/juan/Documentos/Flutter/app_holter/build/linux/x64/profile/CMakeFiles/install/local.dir
+/home/juan/Documentos/Flutter/app_holter/build/linux/x64/profile/CMakeFiles/install/strip.dir
+/home/juan/Documentos/Flutter/app_holter/build/linux/x64/profile/flutter/CMakeFiles/flutter_assemble.dir
+/home/juan/Documentos/Flutter/app_holter/build/linux/x64/profile/flutter/CMakeFiles/edit_cache.dir
+/home/juan/Documentos/Flutter/app_holter/build/linux/x64/profile/flutter/CMakeFiles/rebuild_cache.dir
+/home/juan/Documentos/Flutter/app_holter/build/linux/x64/profile/flutter/CMakeFiles/list_install_components.dir
+/home/juan/Documentos/Flutter/app_holter/build/linux/x64/profile/flutter/CMakeFiles/install.dir
+/home/juan/Documentos/Flutter/app_holter/build/linux/x64/profile/flutter/CMakeFiles/install/local.dir
+/home/juan/Documentos/Flutter/app_holter/build/linux/x64/profile/flutter/CMakeFiles/install/strip.dir
